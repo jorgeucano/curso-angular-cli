@@ -16,3 +16,14 @@ npm install -g @angular/cli
 ng new my-dream-app
 cd my-dream-app
 ng serve
+</pre>
+
+
+### tercera clase - generadores
+
+slides - https://goo.gl/2sykBe
+
+<pre>
+ng generate <tu generado> nombre
+</pre>
+

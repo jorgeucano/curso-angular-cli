@@ -24,6 +24,6 @@ ng serve
 slides - https://goo.gl/2sykBe
 
 <pre>
-ng generate <tu generado> nombre
+ng generate TIPO nombre
 </pre>
 

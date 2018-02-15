@@ -2,15 +2,20 @@
 
 
 ### primera clase - presentación
-
-slides https://goo.gl/FSbQ47
+<ul>
+<li> Slides - https://goo.gl/FSbQ47
+<li> Video - https://youtu.be/wNYM8M119Ks
+</ul>
 
 
 ### segunda clase - instalación y hello world
 
-slides https://goo.gl/pUrKJG
+<ul>
+<li> Slides - https://goo.gl/pUrKJG
+<li> Video - https://youtu.be/oUgoZMjrtNU
+</ul>
 
-comandos
+##### comandos
 <pre>
 npm install -g @angular/cli
 ng new my-dream-app
@@ -21,9 +26,40 @@ ng serve
 
 ### tercera clase - generadores
 
-slides - https://goo.gl/2sykBe
+<ul>
+<li> Slides - https://goo.gl/2sykBe
+<li> Video - https://youtu.be/dpUqGBh5jVI
+</ul>
 
+##### comandos
 <pre>
 ng generate TIPO nombre
 </pre>
+
+### cuarta clase - Config
+
+<ul>
+<li> Slides - https://goo.gl/GDWtqB
+<li> Video - https://youtu.be/N65gB1f-f5A
+</ul>
+
+##### comandos
+<pre>
+ng new new-app --routing
+ng generate module my-new-module --routing
+</pre>
+
+### quinta clase - schematics
+
+<ul>
+<li> Slides - https://goo.gl/JE24je
+<li> Video - https://youtu.be/_OFyoygn540
+</ul>
+
+
+### sexta clase - veamos el código
+
+<ul>
+<li> Video - https://youtu.be/PsziwVlesvI
+</ul>
 
